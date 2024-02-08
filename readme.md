@@ -1,4 +1,4 @@
-# QRCode Generator
+# QR Code Generator
 
 This simple Python script utilizes the `qrcode` library to generate QR codes from given input data, which can be a URL, text, or any information you want to encode into a QR code.
 
